@@ -1,0 +1,5 @@
+C:\Users\shareef.javeed\Desktop\Twitter.Web\Twitter.Model\bin\Debug\Twitter.Model.dll
+C:\Users\shareef.javeed\Desktop\Twitter.Web\Twitter.Model\bin\Debug\Twitter.Model.pdb
+C:\Users\shareef.javeed\Desktop\Twitter.Web\Twitter.Model\obj\Debug\TwitterFeed.Model.csprojResolveAssemblyReference.cache
+C:\Users\shareef.javeed\Desktop\Twitter.Web\Twitter.Model\obj\Debug\Twitter.Model.dll
+C:\Users\shareef.javeed\Desktop\Twitter.Web\Twitter.Model\obj\Debug\Twitter.Model.pdb

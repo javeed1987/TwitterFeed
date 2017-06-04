@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Salesforce Twitter Feeds";
+}
+<meta http-equiv="refresh" content="60">
+<script type="text/javascript" src="~/Scripts/jquery-1.10.2.min.js"> </script>
+<script type="text/javascript" src="~/Scripts/TwitterFeed.js"> </script>
+
+<h2>TwitterFeed</h2>
+<body>
+    <div id="HeaderDiv" class="LeftDiv">
+        <!--Search controls -->
+        <input id="inputSerach" type="text" style="width: 60%; height: 30%;" />&nbsp;
+        <input type="button"  value="submit" onclick="LoadTwitterFeed(); return false;" />
+    </div>
+    <div id="twitter-feeds">        
+    </div>
+</body>
